@@ -1,4 +1,4 @@
-from src import *
+from ./src/ import *
 from functionality_helpers import *
 from cross_validations import *
 
